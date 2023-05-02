@@ -13,7 +13,7 @@ module.exports = {
     duration : {type : 'string', required : true},
     author : {type : 'string', required : true},
     imgBanner : {type : 'string', required : true},// url to img banner
-    actor : {type : 'string', defaultsTo:[]},
+    actors : {type : 'ref', defaultsTo:[]},
     startTime : {type : 'string' , required : true},
     language : {type : 'string', required : true},
     rated : {type : 'string', required : true},

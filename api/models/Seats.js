@@ -9,7 +9,7 @@ module.exports = {
 
   attributes: {
     name : {type : 'string', required : true},
-    type : {type : 'string', required : true} , isIn : ['vip','normal'],
+    type : {type : 'string' , isIn : ['vip','normal'] } 
 
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗

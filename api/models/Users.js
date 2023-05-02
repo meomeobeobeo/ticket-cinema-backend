@@ -12,7 +12,7 @@ module.exports = {
     email:{type: 'string',required:true},
     avatarUrl :{type: 'string' },
     password :{type: 'string'},
-    userType :{type : 'string' , default : 'client' , isIn : ['client' , 'admin' , 'officer'] } // client or admin or officer
+    userType :{type : 'string' , defaultsTo  : 'client' , isIn : ['client' , 'admin' , 'officer'] } // client or admin or officer
     
 
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
