@@ -22,14 +22,11 @@ module.exports.routes = {
   '/': { view: 'pages/homepage' },
   'POST /users' : 'UsersController.create',
 
-  //auth
-  'POST /auth/signUp' : 'AuthController.signUp',
-  'POST /auth/signIn' : 'AuthController.signIn',
+  //upload image
+  'POST /UploadImage': 'UploadImageController.uploadImage',
+  'GET /UploadImage': { view: 'pages/homepage' }
 
-  //user
-  'PATCH /users/changeInfo' : "UsersController.changePassword",
-  'GET /users/filter/:searchText':'UsersController.userSearchByName',
-  'POSt /users/createNewUser' : 'UsersController.createNewUser',
+
 
   
 

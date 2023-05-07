@@ -19,7 +19,7 @@ module.exports.policies = {
 
   // '*': true,
   // '*' : 'authorization',
-  '*': 'cors',
+  // '*': 'cors',
 
   
   
