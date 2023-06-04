@@ -11,6 +11,7 @@ module.exports = {
     seatId : {type : 'string', required : true},
     cost : {type : 'number', required : true},
     filmManagerId : {type : 'string', required : true},
+    status : {type : 'string', required : true, isIn : ['paid','unpaid','delete']},
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
     //  ╩  ╩╚═╩╩ ╩╩ ╩ ╩ ╚╝ ╚═╝╚═╝

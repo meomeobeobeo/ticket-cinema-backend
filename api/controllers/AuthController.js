@@ -10,7 +10,7 @@ const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken")
 module.exports = {
   async signIn(req, res) {
-    console.log(req.body)
+   
     try {
       const { email, password } = req.body;
       

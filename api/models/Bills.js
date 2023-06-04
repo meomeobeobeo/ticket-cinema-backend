@@ -12,7 +12,9 @@ module.exports = {
     listTickets : {type : 'ref', defaultsTo : []},// _id của danh sách vé
     listFood :{type : 'ref',defaultsTo : [] }, // _id của danh sách thức ăn
     totalCost : {type : 'number', required : true},
-    userId : {type : 'string', required : true}
+    userId : {type : 'string', required : true},
+    status : {type : 'string', required : true, isIn : ['paid','unpaid','delete']},
+
 
 
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗

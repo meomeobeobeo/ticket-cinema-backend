@@ -8,11 +8,12 @@
 module.exports = {
 
   attributes: {
-    
+      
     filmId : {type : 'string', required : true},
     watchTime : {type : 'string', required : true},
     watchDate : {type : 'string', required : true},
     theaterAddress : {type : 'string', required : true},
+    theaterNumber : {type : 'string', required : true , isIn : ['1','2','3','4','5','6']} 
     
     
 

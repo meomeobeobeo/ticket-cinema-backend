@@ -10,7 +10,7 @@ module.exports = {
   attributes: {
 
     name : {type : 'string', required : true},
-    duration : {type : 'string', required : true},
+    duration : {type : 'ref', required : true},
     author : {type : 'string', required : true},
     imgBanner : {type : 'string', required : true},// url to img banner
     actors : {type : 'ref', defaultsTo:[]},

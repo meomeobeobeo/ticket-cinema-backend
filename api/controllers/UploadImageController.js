@@ -39,9 +39,9 @@ module.exports = {
             folderId,
             subFolder
           );
-          
-          console.log(fileId)
-          return res.ok(fileId);
+          let linkReturn = `https://drive.google.com/uc?export=view&id=${fileId}`
+          console.log(linkReturn)
+          return res.ok(linkReturn);
         }
       );
   },
