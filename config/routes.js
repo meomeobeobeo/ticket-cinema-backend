@@ -24,7 +24,13 @@ module.exports.routes = {
 
   //upload image
   'POST /UploadImage': 'UploadImageController.uploadImage',
-  'GET /UploadImage': { view: 'pages/homepage' }
+  'GET /UploadImage': { view: 'pages/homepage' },
+
+
+
+  // auth
+  'POST /auth/login': 'AuthController.signIn',
+  'POST /auth/signUp': 'AuthController.signUp',
 
 
 
