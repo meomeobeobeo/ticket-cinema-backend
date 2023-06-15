@@ -52,8 +52,9 @@ module.exports.datastores = {
     // url: 'mysql://user:password@host:port/database',
   
       adapter: 'sails-mongo',
-      // url: 'mongodb+srv://meotrangbeo:meotrangbeo@cluster0.l1q01q7.mongodb.net/cloneApp'
-      url : 'mongodb://localhost:27017/ticket-cinema'
+      
+      // url : 'mongodb://localhost:27017/ticket-cinema'
+      url :"mongodb+srv://ticket-cinema:passed@cluster0.berffct.mongodb.net/ticket-cinema"
     
 
   },
