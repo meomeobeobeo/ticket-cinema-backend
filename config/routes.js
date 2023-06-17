@@ -33,6 +33,11 @@ module.exports.routes = {
   'POST /auth/signUp': 'AuthController.signUp',
 
 
+  // film management
+  'POST /filmManager/getDataBaseOnFilmId': 'FilmManagerController.getDataBaseOnFilmId',
+  
+
+
 
   
 

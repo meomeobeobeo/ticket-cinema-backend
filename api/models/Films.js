@@ -18,7 +18,8 @@ module.exports = {
     language : {type : 'string', required : true},
     rated : {type : 'string', required : true},
     description : {type : 'string', required : true},
-
+    trailer : {type : 'string'},
+    
 
 
 

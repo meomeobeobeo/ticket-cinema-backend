@@ -5,11 +5,12 @@
  * @docs        :: https://sailsjs.com/docs/concepts/models-and-orm/models
  */
 
-module.exports = {
+module.exports = {    
 
   attributes: {
       
-    filmId : {type : 'string', required : true},
+    filmInfor : {type : 'json', required : true},
+  
     watchTime : {type : 'string', required : true},
     watchDate : {type : 'string', required : true},
     theaterAddress : {type : 'string', required : true},
