@@ -1,0 +1,1605 @@
+{
+    "danhSachGhe": [
+      {
+        "maGhe": 48041,
+        "tenGhe": "01",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "01",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48042,
+        "tenGhe": "02",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "02",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48043,
+        "tenGhe": "03",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "03",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48044,
+        "tenGhe": "04",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "04",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48045,
+        "tenGhe": "05",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "05",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48046,
+        "tenGhe": "06",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "06",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48047,
+        "tenGhe": "07",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "07",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48048,
+        "tenGhe": "08",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "08",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48049,
+        "tenGhe": "09",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "09",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48050,
+        "tenGhe": "10",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "10",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48051,
+        "tenGhe": "11",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "11",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48052,
+        "tenGhe": "12",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "12",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48053,
+        "tenGhe": "13",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "13",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48054,
+        "tenGhe": "14",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "14",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48055,
+        "tenGhe": "15",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "15",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48056,
+        "tenGhe": "16",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "16",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48057,
+        "tenGhe": "17",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "17",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48058,
+        "tenGhe": "18",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "18",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48059,
+        "tenGhe": "19",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "19",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48060,
+        "tenGhe": "20",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "20",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48061,
+        "tenGhe": "21",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "21",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48062,
+        "tenGhe": "22",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "22",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48063,
+        "tenGhe": "23",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "23",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48064,
+        "tenGhe": "24",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "24",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48065,
+        "tenGhe": "25",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "25",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48066,
+        "tenGhe": "26",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "26",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48067,
+        "tenGhe": "27",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "27",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48068,
+        "tenGhe": "28",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "28",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48069,
+        "tenGhe": "29",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "29",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48070,
+        "tenGhe": "30",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "30",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48071,
+        "tenGhe": "31",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "31",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48072,
+        "tenGhe": "32",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "32",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48073,
+        "tenGhe": "33",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "33",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48074,
+        "tenGhe": "34",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "34",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48075,
+        "tenGhe": "35",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "35",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48076,
+        "tenGhe": "36",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "36",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48077,
+        "tenGhe": "37",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "37",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48078,
+        "tenGhe": "38",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "38",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48079,
+        "tenGhe": "39",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "39",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48080,
+        "tenGhe": "40",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "40",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48081,
+        "tenGhe": "41",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "41",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48082,
+        "tenGhe": "42",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "42",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48083,
+        "tenGhe": "43",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "43",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48084,
+        "tenGhe": "44",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "44",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48085,
+        "tenGhe": "45",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "45",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48086,
+        "tenGhe": "46",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "46",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48087,
+        "tenGhe": "47",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "47",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48088,
+        "tenGhe": "48",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "48",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48089,
+        "tenGhe": "49",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "49",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48090,
+        "tenGhe": "50",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "50",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48091,
+        "tenGhe": "51",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "51",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48092,
+        "tenGhe": "52",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "52",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48093,
+        "tenGhe": "53",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "53",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48094,
+        "tenGhe": "54",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "54",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48095,
+        "tenGhe": "55",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "55",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48096,
+        "tenGhe": "56",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "56",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48097,
+        "tenGhe": "57",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "57",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48098,
+        "tenGhe": "58",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "58",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48099,
+        "tenGhe": "59",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "59",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48100,
+        "tenGhe": "60",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "60",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48101,
+        "tenGhe": "61",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "61",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48102,
+        "tenGhe": "62",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "62",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48103,
+        "tenGhe": "63",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "63",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48104,
+        "tenGhe": "64",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "64",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48105,
+        "tenGhe": "65",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "65",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48106,
+        "tenGhe": "66",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "66",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48107,
+        "tenGhe": "67",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "67",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48108,
+        "tenGhe": "68",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "68",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48109,
+        "tenGhe": "69",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "69",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48110,
+        "tenGhe": "70",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "70",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48111,
+        "tenGhe": "71",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "71",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48112,
+        "tenGhe": "72",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "72",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48113,
+        "tenGhe": "73",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "73",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48114,
+        "tenGhe": "74",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "74",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48115,
+        "tenGhe": "75",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "75",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48116,
+        "tenGhe": "76",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "76",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48117,
+        "tenGhe": "77",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "77",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48118,
+        "tenGhe": "78",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "78",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48119,
+        "tenGhe": "79",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "79",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48120,
+        "tenGhe": "80",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "80",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48121,
+        "tenGhe": "81",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "81",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48122,
+        "tenGhe": "82",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "82",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48123,
+        "tenGhe": "83",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "83",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48124,
+        "tenGhe": "84",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "84",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48125,
+        "tenGhe": "85",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "85",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48126,
+        "tenGhe": "86",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "86",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48127,
+        "tenGhe": "87",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "87",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48128,
+        "tenGhe": "88",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "88",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48129,
+        "tenGhe": "89",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "89",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48130,
+        "tenGhe": "90",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "90",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48131,
+        "tenGhe": "91",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "91",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48132,
+        "tenGhe": "92",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "92",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48133,
+        "tenGhe": "93",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "93",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48134,
+        "tenGhe": "94",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "94",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48135,
+        "tenGhe": "95",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "95",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48136,
+        "tenGhe": "96",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "96",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48137,
+        "tenGhe": "97",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "97",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48138,
+        "tenGhe": "98",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "98",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48139,
+        "tenGhe": "99",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "99",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48140,
+        "tenGhe": "100",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "100",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48141,
+        "tenGhe": "101",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "101",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48142,
+        "tenGhe": "102",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "102",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48143,
+        "tenGhe": "103",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "103",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48144,
+        "tenGhe": "104",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "104",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48145,
+        "tenGhe": "105",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "105",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48146,
+        "tenGhe": "106",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "106",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48147,
+        "tenGhe": "107",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "107",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48148,
+        "tenGhe": "108",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "108",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48149,
+        "tenGhe": "109",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "109",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48150,
+        "tenGhe": "110",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "110",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48151,
+        "tenGhe": "111",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "111",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48152,
+        "tenGhe": "112",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "112",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48153,
+        "tenGhe": "113",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "113",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48154,
+        "tenGhe": "114",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "114",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48155,
+        "tenGhe": "115",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "115",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48156,
+        "tenGhe": "116",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "116",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48157,
+        "tenGhe": "117",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "117",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48158,
+        "tenGhe": "118",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "118",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48159,
+        "tenGhe": "119",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "119",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48160,
+        "tenGhe": "120",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "120",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48161,
+        "tenGhe": "121",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "121",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48162,
+        "tenGhe": "122",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "122",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48163,
+        "tenGhe": "123",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "123",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48164,
+        "tenGhe": "124",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "124",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48165,
+        "tenGhe": "125",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "125",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48166,
+        "tenGhe": "126",
+        "maRap": 455,
+        "loaiGhe": "Vip",
+        "stt": "126",
+        "giaVe": 120000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48167,
+        "tenGhe": "127",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "127",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48168,
+        "tenGhe": "128",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "128",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48169,
+        "tenGhe": "129",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "129",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48170,
+        "tenGhe": "130",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "130",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48171,
+        "tenGhe": "131",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "131",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48172,
+        "tenGhe": "132",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "132",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48173,
+        "tenGhe": "133",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "133",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48174,
+        "tenGhe": "134",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "134",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48175,
+        "tenGhe": "135",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "135",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48176,
+        "tenGhe": "136",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "136",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48177,
+        "tenGhe": "137",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "137",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48178,
+        "tenGhe": "138",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "138",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48179,
+        "tenGhe": "139",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "139",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48180,
+        "tenGhe": "140",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "140",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48181,
+        "tenGhe": "141",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "141",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48182,
+        "tenGhe": "142",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "142",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48183,
+        "tenGhe": "143",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "143",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48184,
+        "tenGhe": "144",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "144",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48185,
+        "tenGhe": "145",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "145",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48186,
+        "tenGhe": "146",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "146",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48187,
+        "tenGhe": "147",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "147",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48188,
+        "tenGhe": "148",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "148",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48189,
+        "tenGhe": "149",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "149",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48190,
+        "tenGhe": "150",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "150",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48191,
+        "tenGhe": "151",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "151",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48192,
+        "tenGhe": "152",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "152",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48193,
+        "tenGhe": "153",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "153",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48194,
+        "tenGhe": "154",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "154",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48195,
+        "tenGhe": "155",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "155",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48196,
+        "tenGhe": "156",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "156",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48197,
+        "tenGhe": "157",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "157",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48198,
+        "tenGhe": "158",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "158",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48199,
+        "tenGhe": "159",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "159",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 48200,
+        "tenGhe": "160",
+        "maRap": 455,
+        "loaiGhe": "Thuong",
+        "stt": "160",
+        "giaVe": 100000,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      }
+    ]
+  }
+  

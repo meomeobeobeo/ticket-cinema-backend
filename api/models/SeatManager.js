@@ -1,32 +1,38 @@
 /**
- * Tickets.js
+ * SeatManager.js
  *
  * @description :: A model definition represents a database table/collection.
  * @docs        :: https://sailsjs.com/docs/concepts/models-and-orm/models
  */
 
 module.exports = {
-
   attributes: {
-    seatId : {type : 'string', required : true},
-    cost : {type : 'string', required : true},
-    filmManagerId : {type : 'string', required : true},
-    status : {type : 'string', required : true, isIn : ['paid','unpaid','delete']},
+    filmManagerId: { type: "string" },
+    seatInformation: { type: "ref" },
+
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
     //  ╩  ╩╚═╩╩ ╩╩ ╩ ╩ ╚╝ ╚═╝╚═╝
-
 
     //  ╔═╗╔╦╗╔╗ ╔═╗╔╦╗╔═╗
     //  ║╣ ║║║╠╩╗║╣  ║║╚═╗
     //  ╚═╝╩ ╩╚═╝╚═╝═╩╝╚═╝
 
-
     //  ╔═╗╔═╗╔═╗╔═╗╔═╗╦╔═╗╔╦╗╦╔═╗╔╗╔╔═╗
     //  ╠═╣╚═╗╚═╗║ ║║  ║╠═╣ ║ ║║ ║║║║╚═╗
     //  ╩ ╩╚═╝╚═╝╚═╝╚═╝╩╩ ╩ ╩ ╩╚═╝╝╚╝╚═╝
-
   },
+  updateStatusSeat: async (req, res) => {
+    try {
+      
 
+
+    } catch (error) {
+      res.status(500).json({
+        errorCode: 500,
+        errorMessage: "meet error",
+        errorDetails: error,
+      });
+    }
+  },
 };
-

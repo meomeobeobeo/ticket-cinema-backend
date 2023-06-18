@@ -35,6 +35,20 @@ module.exports.routes = {
 
   // film management
   'POST /filmManager/getDataBaseOnFilmId': 'FilmManagerController.getDataBaseOnFilmId',
+  'POST /blue/filmManager': 'FilmManagerController.createNewDocFilmMamager',
+  'DELETE /blue/filmManager/:id': 'FilmManagerController.deleteDocFilmManager',
+
+  'GET /filmManager/getSeatDataBaseOnFilmManagerId/:filmManagerId': 'FilmManagerController.getSeatDataBaseOnFilmManagerId',
+
+
+  // bill
+
+  'POST /bills/createNewBills': 'BillsController.createNewBills',
+
+
+
+
+  
   
 
 
