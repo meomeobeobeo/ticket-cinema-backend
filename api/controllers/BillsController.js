@@ -15,22 +15,20 @@ module.exports = {
           let seatInformation = seatManagerInfor[0]?.seatInformation;
           let upDateseatInformation;
       
-          listSeats.forEach((valueInList, i) => {
-            upDateseatInformation = seatInformation.map((seat, index) => {
-              if (valueInList.tenGhe === seat.tenGhe) {
-                return valueInList;
-              } else {
-                return seat;
-              }
-            });
-          });
+          for (let i = 0; i < seatInformation.length; i++) {
+            const maGhe = seatInformation[i].maGhe;
+            const matchingSeat = listSeats.find(seat => seat.maGhe === maGhe);
+            if (matchingSeat) {
+              seatInformation[i] = matchingSeat;
+            }
+          }
       
           // update seatManager document
           let updateSeatManagerRes = await SeatManager.update({
             filmManagerId: filmManagerId,
           }).set({
             ...seatManagerInfor[0],
-            seatInformation: upDateseatInformation,
+            seatInformation: seatInformation,
           });
       
           // create document in tickets model
