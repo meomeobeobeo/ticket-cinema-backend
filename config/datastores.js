@@ -53,8 +53,8 @@ module.exports.datastores = {
   
       adapter: 'sails-mongo',
       
-      url : 'mongodb://localhost:27017/ticket-cinema'
-      // url :"mongodb+srv://ticket-cinema:passed@cluster0.berffct.mongodb.net/ticket-cinema"
+      // url : 'mongodb://localhost:27017/ticket-cinema'
+      url :"mongodb+srv://ticket-cinema:passed@cluster0.berffct.mongodb.net/ticket-cinema"
     
 
   },

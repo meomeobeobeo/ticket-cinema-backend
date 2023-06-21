@@ -45,6 +45,10 @@ module.exports.routes = {
 
   'POST /bills/createNewBills': 'BillsController.createNewBills',
 
+  'POST /dashBoard/getDataForDashBoard' : 'DashBoardController.getDataForDashBoard' ,
+  'GET /dashBoard/getDataforTicketManager' : 'DashBoardController.getDataforTicketManager' 
+
+
 
 
 
